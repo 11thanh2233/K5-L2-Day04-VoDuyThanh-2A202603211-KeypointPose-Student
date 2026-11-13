@@ -1,0 +1,65 @@
+{
+ "mssv": "L2A202603211",
+ "ten": "VoDuyThanh",
+ "pool_version": "d04-k5-v2",
+ "cvat_user": "jason",
+ "project": "d04-keypoint",
+ "persons": [
+  "000000103970.jpg",
+  "000000156069.jpg",
+  "000000162046.jpg",
+  "000000201702.jpg",
+  "000000343057.jpg",
+  "000000056651.jpg",
+  "000000188804.jpg",
+  "000000516902.jpg",
+  "000000311300.jpg",
+  "000000431988.jpg",
+  "000000007281.jpg",
+  "000000522889.jpg"
+ ],
+ "faces": [
+  "face_496353.jpg",
+  "face_575921.jpg",
+  "face_85624.jpg",
+  "face_137371.jpg",
+  "face_185015.jpg",
+  "face_504911.jpg",
+  "face_99874.jpg",
+  "face_560526.jpg"
+ ],
+ "tasks": {
+  "persons": {
+   "task_id": 12,
+   "job_id": 12,
+   "task_name": "persons-VoDuyThanh"
+  },
+  "faces": {
+   "task_id": 13,
+   "job_id": 13,
+   "task_name": "faces-VoDuyThanh"
+  },
+  "persons-extra": {
+   "task_id": 14,
+   "job_id": 14,
+   "task_name": "persons-extra-VoDuyThanh"
+  },
+  "faces-extra": {
+   "task_id": 15,
+   "job_id": 15,
+   "task_name": "faces-extra-VoDuyThanh"
+  }
+ },
+ "persons_extra": [
+  "000000104800.jpg",
+  "000000161603.jpg",
+  "000000357549.jpg"
+ ],
+ "faces_extra": [
+  "face_300200.jpg",
+  "face_317330.jpg",
+  "face_45276.jpg",
+  "face_494518.jpg",
+  "face_68290.jpg"
+ ]
+}
